@@ -12,9 +12,10 @@ Very helpful for the mobile users with defective Volume and Lock Buttons, Trigge
 * ScreenLock
 * Hide Floating Button
   
-_with innovative Fluid Pop-up options, Edge Tuck Feature for better access and Immersive experience, Inbuilt Vertical Brightness Control Slider and Much Mode_
+_with innovative Fluid Pop-up options, Edge Tuck Feature for better access, Keyboard Awareness and Immersive experience, Inbuilt Vertical Brightness Control Slider and Much Mode_
 
-<img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/ce7c74aa-9c67-4052-b826-34e5c48d5e67" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/f150183f-dae3-45f6-ade1-c9c96b062420" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/49b94718-939a-4c32-8c1d-2003375fbe49" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/e68ff792-dbb0-47cb-8cde-2c0052880f7a" />
+<img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/ce7c74aa-9c67-4052-b826-34e5c48d5e67" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/f150183f-dae3-45f6-ade1-c9c96b062420" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/49b94718-939a-4c32-8c1d-2003375fbe49" />     <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/e68ff792-dbb0-47cb-8cde-2c0052880f7a" />    <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/eaa0b0db-558d-47ed-b167-877428a5d77e" />
+
 
 # Permissions Required
 <img width="210" height="430" alt="image" src="https://github.com/user-attachments/assets/feac56ad-50ad-4c3f-8c01-b396bbe05656" />
